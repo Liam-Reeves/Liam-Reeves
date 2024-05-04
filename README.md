@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Liam Reeves</h1>
-<h1 align="center">A passionate Digital Craftsman from Kenya 🇰🇪 </h1>
+<h1 align="center">💫 About Me:Passionate Digital Craftsman from Kenya 🇰🇪 </h1>
 <h3 align ="justify"> As a developer, I would describe myself as a skilled and experienced professional with in-depth knowledge in various programming languages and technologies. 
   I am versatile and can easily adapt to different frameworks or platforms.
-  My analytical mindset allows me to dissect complex problems and find innovative solutions efficiently. 
-  I am detail-oriented, ensuring that every aspect of my work is carefully examined for accuracy and quality. 
-  Additionally, I am a self-motivated individual who actively seeks opportunities for personal growth and continuous learning within the ever-evolving field of technology. Collaboration is essential to me, as I thrive in team environments where ideas can be shared and refined collectively.
-  Overall, my passion for coding drives me to stay creative, constantly striving to develop elegant solutions that positively impact end users' experiences </h3>
+</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liam-reeves&label=Profile%20views&color=0e75b6&style=flat" alt="liam-reeves" /> </p>
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Liam Reeves</h1>
-<h1 align="center">💫 About Me:Passionate Digital Craftsman  </h1>
+<h1 align="center">Hi 👋, I'm Liam !!</h1>
+<h3 align="center">💫 About Me:Passionate Digital Craftsman  </h3>
 <h3 align ="justify"> As a developer, I would describe myself as a skilled and experienced professional with in-depth knowledge in various programming languages and technologies. 
   I am versatile and can easily adapt to different frameworks or platforms.
 </h3>

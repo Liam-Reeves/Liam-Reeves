@@ -34,4 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liam-reeves&show_icons=true&locale=en" alt="liam-reeves" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liam-reeves&" alt="liam-reeves" /></p>
+<p><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves & https://github.com/Liam-Reeves/github-readme-stats"/> </p>
+
+
 

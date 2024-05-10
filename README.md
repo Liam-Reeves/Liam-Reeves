@@ -29,14 +29,14 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liam-reeves&show_icons=true&theme=radical&locale=en&layout=compact" alt="liam-reeves" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Liam-Reeves&show_icons=true&theme=radical)" alt="liam-reeves" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liam-reeves&show_icons=true&locale=en" alt="liam-reeves" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liam-reeves&" alt="liam-reeves" /></p>
 <p>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves & https://github.com/Liam-Reeves/github-readme-stats"/> 
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves&size_weight=0.5&count_weight=0.5"/>
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves & https://github.com/Liam-Reeves/github-readme-stats"/> 
+  <img  align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves&size_weight=0.5&count_weight=0.5"/>
   
 </p>
 

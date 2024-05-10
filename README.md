@@ -1,13 +1,4 @@
-<style>
-  .design{
-     title_color: "ffffff",
-    text_color: "ffffff",
-    icon_color: "ffffff",
-    bg_color: "35,4158d0,c850c0,ffcc70",
- 
-    
-  },
-</style>
+
 <h1 align="center">Hi 👋, I'm Liam !!</h1>
 <h3 align="center">💫 About Me:Passionate Digital Craftsman  </h3>
 <h3 align ="justify"> As a developer, I would describe myself as a skilled and experienced professional with in-depth knowledge in various programming languages and technologies. 
@@ -39,7 +30,7 @@
 
 
 
-<p class ="design"><img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" alt="liam-reeves" />
+<p class ="design"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Liam-Reeves&show_icons=true&theme=dark#gh-dark-mode-only" alt="liam-reeves" />
     <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves & https://github.com/Liam-Reeves/github-readme-stats"/> 
     <img  align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves&size_weight=0.5&count_weight=0.5"/>
 </p>
@@ -48,9 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liam-reeves&" alt="liam-reeves" /></p>
 
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves & https://github.com/Liam-Reeves/github-readme-stats"/> 
-  <img  align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves&size_weight=0.5&count_weight=0.5"/>
-  
 
 
 

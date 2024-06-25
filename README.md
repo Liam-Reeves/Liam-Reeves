@@ -1,7 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Liam !!</h1>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
+
+<img align="top" alt="Coding" width="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<h1 align="center">Hi 👋, I'm Liam !!</h1>
 
 <h3 align="center">💫 About Me: Passionate Digital Craftsman  </h3>
 <h3 align ="justify"> As a developer, I would describe myself as a skilled and experienced professional with in-depth knowledge in various programming languages and technologies. 

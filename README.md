@@ -1,7 +1,7 @@
 
 
 
-<img align="top" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<img align="top" alt="Coding" width="500" height="800" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 <h1 align="center">Hi 👋, I'm Liam !!</h1>
 
 <h3 align="center">💫 About Me: Passionate Digital Craftsman  </h3>

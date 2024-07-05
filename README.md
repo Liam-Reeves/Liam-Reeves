@@ -29,9 +29,9 @@
 
 <h3 align="left">💻Tech Bag:</h3>
 <p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+ <div> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt =" android" width="50" height="50"/>
-           </a>
+           </a></div>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width ="50" height="50" />
            </a> 

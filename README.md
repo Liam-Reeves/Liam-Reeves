@@ -45,9 +45,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width ="50" height="50"/>
            </a>
  </div>
-<div>
 
-</div>
 <div>
   <h4>Languages: </h4>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 

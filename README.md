@@ -37,15 +37,16 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50"/>
            </a>
- </div>
-<div>
-<h4>Frameworks: </h4>
+   <h4>Frameworks: </h4>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width ="50" height="50" />
            </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width ="50" height="50"/>
            </a>
+ </div>
+<div>
+
 </div>
 <div>
   <h4>Languages: </h4>

@@ -57,7 +57,8 @@
 <div>
 <h4>Graphic Design: </h4>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Liam-Reeves/Liam-Reeves/assets/137655583/1471597c-3271-4f6c-bd63-4678feb5cd66" alt="photoshop" width="50" height="50"/> </a>
-       <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a> 
+
+   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a> 
 
 
 </div>
@@ -71,13 +72,14 @@
   </div>
   <div>
   <h4>Databases: </h4>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"  width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
     
   </div>
   <div>
     <h4>Operating Systems: </h4>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-
+    <a href="https://www.microsoft.com/software-download/windows11"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"  width="50" height="50" />
+</a> 
   </div>
  
 

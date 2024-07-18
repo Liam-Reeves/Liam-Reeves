@@ -29,7 +29,7 @@
 
 <h3 align="left">💻Tech Bag:</h3>
 <p align="left"> 
- <div> 
+ 
    <h4>Android Development</h4>
    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt =" android" width="50" height="50"/>
@@ -44,7 +44,7 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width ="50" height="50"/>
            </a>
- </div>
+ 
 
 <div>
   <h4>Languages: </h4>

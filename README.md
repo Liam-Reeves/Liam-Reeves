@@ -28,6 +28,7 @@
 </p>
 
 <h3 align="left">💻Tech Bag:</h3>
+<hr/>
 <p align="left"> 
  
    <h4>Android Development</h4>
@@ -51,7 +52,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
 <h4>Graphic Design: </h4>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Liam-Reeves/Liam-Reeves/assets/137655583/1471597c-3271-4f6c-bd63-4678feb5cd66" alt="photoshop" width="50" height="50"/> </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Liam-Reeves/Liam-Reeves/assets/137655583/1471597c-3271-4f6c-bd63-4678feb5cd66" alt="photoshop" width="49" height="50"/> </a>
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a> 
     <h4>Version Control: </h4>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 

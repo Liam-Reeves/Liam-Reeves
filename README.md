@@ -65,9 +65,9 @@
     </a> 
 </p>
 
-<p class ="design"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Liam-Reeves &show_icons=true&theme=dark#gh-dark-mode-only" alt="liam-reeves" />
+<p class ="design"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Liam-Reeves&show_icons=true&theme=dark#gh-dark-mode-only" alt="liam-reeves" />
   
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves & https://github.com/Liam-Reeves/github-readme-stats &show_icons=true&theme=dark#gh-dark-mode-only"/> 
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves&https://github.com/Liam-Reeves/github-readme-stats &show_icons=true&theme=dark#gh-dark-mode-only"/> 
   
   <img  align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves&size_weight=0.5&count_weight=0.5"/>
 </p>

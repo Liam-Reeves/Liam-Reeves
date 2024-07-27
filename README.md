@@ -74,7 +74,7 @@
   <img  align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Reeves&size_weight=1&count_weight=1&hide_progress=true&theme=chartreuse-dark"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liam-reeves&&show_icons=true&theme=chartreuse-dark" alt="liam-reeves" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=liam-reeves&&show_icons=true&theme=chartreuse-dark" alt="liam-reeves" /></p>
 
 
 
